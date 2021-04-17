@@ -25,7 +25,7 @@ Platter makes Postgres branchable, provides a CLI (command line interface) for c
 
 **Installation**: <https://github.com/boilerplatter/releases>
 
-**Account sign-up**: <https://dashboard.platter.dev/register>
+**Account sign-up**: <https://dashboard.platter.dev/register?cohort=helloworld>
 
 **Check**:
 
