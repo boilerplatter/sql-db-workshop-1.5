@@ -38,4 +38,10 @@ platter postgres list
 # Should first prompt you to log in with the credentials you created above in account sign-up; OK to have an error here after sign-in if you don't yet have any Platter databases, though. See https://docs.platter.dev/cli if you want to explore ahead of time, ignoring all the npm/npx specific parts.
 ```
 
+## Slides
+
+https://docs.google.com/presentation/d/1g179LFB5AwRNE1XsbY2DohBbhqJ5f7uxLVW52fvmvVA
+
+## Etc.
+
 Send me an email at <patrick+helloworldworkshop@platter.dev> with the subject **Workshop Participant** and a body including the email associated with your Platter account for freebies and continuing learning resources.
