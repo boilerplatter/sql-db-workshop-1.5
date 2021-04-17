@@ -14,7 +14,7 @@ This is the database we'll be using. Pretty well known around Berkeley, I hear :
 ```bash
 psql --version
 # psql (PostgreSQL) 13.2
-# (should be at least 12.5 for this workshop)
+# (should be at least 13.2 for this workshop)
 ```
 
 ### Platter
